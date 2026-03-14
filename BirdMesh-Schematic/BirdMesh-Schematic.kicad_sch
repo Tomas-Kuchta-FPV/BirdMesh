@@ -1,0 +1,111 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "71d35833-208f-4005-bd0d-22aaf64e720b")
+	(paper "A4")
+	(title_block
+		(company "Tomas Kuchta")
+		(comment 1 "HackClub FTW")
+		(comment 4 "Block diagram of connections")
+	)
+	(lib_symbols)
+	(sheet
+		(at 158.75 36.83)
+		(size 101.6 101.6)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1c475507-4b07-4759-976a-00a7c0fb41c4")
+		(property "Sheetname" "BirdMesh-Router_edition"
+			(at 158.75 34.7534 0)
+			(effects
+				(font
+					(size 4 4)
+					(thickness 0.8)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BirdMesh-Router_edition.kicad_sch"
+			(at 158.75 139.7066 0)
+			(effects
+				(font
+					(size 3 3)
+					(thickness 0.6)
+					(bold yes)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BirdMesh-Schematic"
+				(path "/71d35833-208f-4005-bd0d-22aaf64e720b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 36.83)
+		(size 101.6 101.6)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "71d1fbfb-dfbf-47d9-82b2-acdc96c7b185")
+		(property "Sheetname" "BirdMesh-Health_edition"
+			(at 31.75 34.7534 0)
+			(effects
+				(font
+					(size 4 4)
+					(thickness 0.8)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BirdMesh-Health_edition.kicad_sch"
+			(at 31.75 139.7066 0)
+			(effects
+				(font
+					(size 3 3)
+					(thickness 0.6)
+					(bold yes)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BirdMesh-Schematic"
+				(path "/71d35833-208f-4005-bd0d-22aaf64e720b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
