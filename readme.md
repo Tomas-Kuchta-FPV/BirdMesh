@@ -18,6 +18,9 @@ But it turned into a way more fun adventure. With extending the coverage and mon
 ## Building
 Evherything you need to make the project should be in the /production folder.
 
+![CAD](/Images/CAD%20drawing.png)
+![BM Re](/Images/BirdMesh%20Router%20edition.jpg)
+
 A big thanks to HackClub for helping many great project's like mines.
 
 ## BOM
